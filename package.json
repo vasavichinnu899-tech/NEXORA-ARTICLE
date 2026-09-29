@@ -1,0 +1,19 @@
+{
+  "name": "nexora-article",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static article export for NEXORA content",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve .",
+    "preview": "npx serve . -l 3000"
+  },
+  "keywords": [
+    "article",
+    "content",
+    "static-site",
+    "nexora"
+  ],
+  "author": "NEXORA Article",
+  "license": "MIT"
+}
